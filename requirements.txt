@@ -5,4 +5,7 @@ numpy
 jupyter
 notebook
 tqdm
-opencv-contrib-python
+opencv-contrib-python-headless
+streamlit
+mediapipe
+protobuf==3.20.*
